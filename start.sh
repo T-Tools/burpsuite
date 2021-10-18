@@ -3,7 +3,7 @@
 #Burpsuite for nethunter
 #Coded By Yell Phone Naing
 file="burpsuite.jar"
-download_link="www.google.com"
+download_link="http://thaiasia.net/assets/burpsuite.jar"
 banner () {
 clear
 echo -e "\e[1;32m              ___  _  _ ____ ___  ____ _  _ _ ___ ____ 
